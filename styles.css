@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.hero{
+	display:grid;
+	justify-content:center;
+	align-items:center;
+	
+}
+.hero>button{
+	padding:1px;
+	background-color:red;
+	color:white;
+	border-radius:5px;
+}
+img{
+	width:200px;
+	height:100px;
+	object-fit:cover;
+}
